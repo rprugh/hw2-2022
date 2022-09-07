@@ -1,7 +1,6 @@
 /*Add padding and margin to space out the page.
 Make the font larger too.*/
 body{
-	background-color: white;
 	margin:1%;
 	padding:1%;
 	font-size:150%;
@@ -14,7 +13,7 @@ h1{
 }
 
 .active{
-	background-color: white;
+	background: white;
     text-transform: uppercase;
 	text-align: center;
 }
